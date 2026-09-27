@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conteo Electoral</string>
+    <string name="titulo_app">🗳 Conteo Electoral</string>
+    <string name="subtitulo_app">Sistema de votación democrática</string>
+    <string name="titulo_candidatos">Candidatos</string>
+    <string name="hint_nombre">Nombre del candidato</string>
+    <string name="hint_partido">Partido político</string>
+    <string name="label_candidato1">Candidato 1</string>
+    <string name="label_candidato2">Candidato 2</string>
+    <string name="label_candidato3">Candidato 3</string>
+
+    <!-- Nombres por defecto (editables desde la app) -->
+    <string name="default_nombre1">Guaca Maya</string>
+    <string name="default_partido1">Partido de la Selva</string>
+    <string name="default_nombre2">Guason</string>
+    <string name="default_partido2">Partido de la Risa</string>
+    <string name="default_nombre3">Gue Bond</string>
+    <string name="default_partido3">Partido Secreto</string>
+
+    <string name="btn_iniciar">Iniciar Conteo</string>
+    <string name="btn_reiniciar">Reiniciar</string>
+    <string name="btn_resultados">Ver Resultados</string>
+    <string name="btn_votar">Votar</string>
+    <string name="btn_editar">Editar candidatos</string>
+    <string name="label_total_votos">Total de votos emitidos: %d</string>
+    <string name="titulo_resultados">Resultados Electorales</string>
+    <string name="label_ganador">🏆 Ganador</string>
+    <string name="label_empate">🤝 Empate técnico</string>
+    <string name="label_sin_votos">No se han registrado votos aún.</string>
+    <string name="formato_porcentaje">%.1f%%</string>
+    <string name="formato_votos_resultado">%d votos</string>
+    <string name="confirmacion_reinicio_titulo">Confirmar reinicio</string>
+    <string name="confirmacion_reinicio_mensaje">¿Desea reiniciar el conteo? Se perderán todos los votos.</string>
+    <string name="btn_confirmar">Sí, reiniciar</string>
+    <string name="btn_cancelar">Cancelar</string>
+</resources>

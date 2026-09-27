@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1A237E</color>
+    <color name="colorPrimaryDark">#0D1451</color>
+    <color name="colorAccent">#F9A825</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorCardBackground">#FFFFFF</color>
+    <color name="colorHeaderBackground">#1A237E</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecundario">#757575</color>
+    <color name="colorTextBlanco">#FFFFFF</color>
+    <color name="colorCandidato1">#1565C0</color>
+    <color name="colorCandidato2">#B71C1C</color>
+    <color name="colorCandidato3">#1B5E20</color>
+    <color name="colorBotonIniciar">#F9A825</color>
+    <color name="colorBotonReiniciar">#E53935</color>
+    <color name="colorBotonResultados">#2E7D32</color>
+    <color name="colorBarra1">#42A5F5</color>
+    <color name="colorBarra2">#EF5350</color>
+    <color name="colorBarra3">#66BB6A</color>
+    <color name="colorDeshabilitado">#BDBDBD</color>
+    <color name="colorTextoDeshabilitado">#9E9E9E</color>
+</resources>
